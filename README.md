@@ -9,13 +9,13 @@
 
 - SpatialConvolutionMM
 
-Tests: *1-spatial-convolution-model.py*, *1-spatial-convolution-unit.py*
+Tests: *1-spatial-convolution-model.py* (1.05x), *1-spatial-convolution-unit.py* (1.16x)
 
 https://github.com/pytorch/pytorch/issues/48539
  
 - ReplicationPad
 
-Tests: *2-replication-pad3d.py*
+Tests: *2-replication-pad3d.py* (1.15x)
 
 https://github.com/pytorch/pytorch/issues/48889
 
